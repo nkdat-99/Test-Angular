@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Test-Ang"
+    }
+  },
+  "defaultProject": "Test-Ang",
+  "cli": {
+    "analytics": false
+  }
 }
