@@ -1,5 +1,7 @@
+//Các thư viện cần dùng
 import { Component } from '@angular/core';
 
+//Khai báo về component
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
